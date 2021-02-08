@@ -7,7 +7,8 @@
 <img align="right" height="270px" alt="GIF" src="https://github.com/Chri100pher/Chri100pher/blob/main/skatter-programmer.gif" />
 
 ### I am a Cloud Engineer
-- I will update this later
+- Technologies i work with:
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws" /> <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform" /> <img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" />
 - This is placeholder
 - Need to put some information about me here
 <!--- - 🔭 I’m currently working on my Portfolio Website :grin:
