@@ -8,11 +8,22 @@
 
 ### I am a Cloud Engineer
 - Technologies i work with:
-      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws" /> <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform" /> <img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" />
-- Technolgies i have worked with in the past: <img src="https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white" />
-- What i'm trying to learn right now: <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-- Need to put some information about me here
-<!--- - 🔭 I’m currently working on my Portfolio Website :grin:
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws" /> 
+      <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform" /> 
+      <img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" />
+      <img src="https://img.shields.io/badge/-Chef-F09820?logo=chef&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" />
+- Technolgies i have worked with in the past: 
+	  <img src="https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white" />
+	  <img src="https://img.shields.io/badge/-SCCM-5E5E5E?logo=microsoft&logoColor=white" />
+- What i'm trying to learn right now: 
+	  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+	  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+- Need to put some information about me hereąć
+
+
+
+<!--- - 🔭 I’m currently working on my Portfolio Website :grin: 5E5E5E
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2020 Goals: Contribute to Open Source projects
