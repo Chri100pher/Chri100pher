@@ -19,7 +19,7 @@
 - What i'm trying to learn right now: 
 	  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
 	  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-- Need to put some information about me hereąć
+- Need to put some information about me here
 
 
 
