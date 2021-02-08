@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" />
+<img align="right" height="270px" alt="GIF" src="https://github.com/Chri100pher/Chri100pher/blob/main/skatter-programmer.gif" />
 
 ### I am a Cloud Engineer
 - I will update this later
